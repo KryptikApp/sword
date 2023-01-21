@@ -200,20 +200,19 @@ After the QR codes have been scanned and decrypted, an identical vault (with a u
 
 SWORD uses shamir secret sharing and symmetric encryption to improve wallet security. When implemented in software, SWORD provides users with a simple wallet experience that does not require passwords or smart contracts.
 
----
 
-[^1] Charoenwong, Ben and Bernardi, Mario, A Decade of Cryptocurrency ‘Hacks’: 2011 – 2021 (October 1, 2021). Available at SSRN: https://ssrn.com/abstract=3944435 or http://dx.doi.org/10.2139/ssrn.3944435
+[^1]: Charoenwong, Ben and Bernardi, Mario, A Decade of Cryptocurrency ‘Hacks’: 2011 – 2021 (October 1, 2021). Available at SSRN: https://ssrn.com/abstract=3944435 or http://dx.doi.org/10.2139/ssrn.3944435
 
-[^2] Argent (2020, October 8). Guardian Approvals. Retrieved January 4, 2023, from https://support.argent.xyz/hc/en-us/articles/360008828238-Guardian-approvals-needed-
+[^2]: Argent (2020, October 8). Guardian Approvals. Retrieved January 4, 2023, from https://support.argent.xyz/hc/en-us/articles/360008828238-Guardian-approvals-needed-
 
-[^3] Ethereum (2021, September 29). EIP-4337: Account Abstraction Using Alt Mempool. Ethereum.org. Retrieved October 7, 2022, from https://eips.ethereum.org/EIPS/eip-4337
+[^3]: Ethereum (2021, September 29). EIP-4337: Account Abstraction Using Alt Mempool. Ethereum.org. Retrieved October 7, 2022, from https://eips.ethereum.org/EIPS/eip-4337
 
-[^4] Canetti, R., Gennaro, R., Goldfeder, S., Makriyannis, N., & Peled, U. (2020). UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts. In CCS 2020 - Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security (pp. 1769-1787). (Proceedings of the ACM Conference on Computer and Communications Security). Association for Computing Machinery. https://doi.org/10.1145/3372297.3423367
+[^4]: Canetti, R., Gennaro, R., Goldfeder, S., Makriyannis, N., & Peled, U. (2020). UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts. In CCS 2020 - Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security (pp. 1769-1787). (Proceedings of the ACM Conference on Computer and Communications Security). Association for Computing Machinery. https://doi.org/10.1145/3372297.3423367
 
-[^5] ZenGo (2018, June 28). Multi-party ECDSA. Github. Retrieved January 11, 2023, from https://github.com/ZenGo-X/multi-party-ecdsa
+[^5]: ZenGo (2018, June 28). Multi-party ECDSA. Github. Retrieved January 11, 2023, from https://github.com/ZenGo-X/multi-party-ecdsa
 
-[^6] BitcoinWiki (2019, May 23). Deterministic Walet. Retrieved February 15, 2022, from https://en.bitcoinwiki.org/wiki/Deterministic_wallet
+[^6]: BitcoinWiki (2019, May 23). Deterministic Walet. Retrieved February 15, 2022, from https://en.bitcoinwiki.org/wiki/Deterministic_wallet
 
-[^7] Alfredo De Santis, Yvo Desmedt, Yair Frankel, Moti Yung: How to share a function securely. STOC 1994: 522-533
+[^7]: Alfredo De Santis, Yvo Desmedt, Yair Frankel, Moti Yung: How to share a function securely. STOC 1994: 522-533
 
-[^8] Adi Shamir. 1979. How to share a secret. Commun. ACM 22, 11 (Nov. 1979), 612–613. https://doi.org/10.1145/359168.359176
+[^8]: Adi Shamir. 1979. How to share a secret. Commun. ACM 22, 11 (Nov. 1979), 612–613. https://doi.org/10.1145/359168.359176
